@@ -1,3 +1,9 @@
+# MileStone 
+1. siamese network flow
+2. style encodere
+3. denoising style
+4. reconstruct style
+
 # Controlled Text Generation
 Reproducing Hu, et. al., ICML 2017's "Toward Controlled Generation of Text" in PyTorch.
 This work is for University of Bonn's NLP Lab project on Winter Semester 2017/2018.
